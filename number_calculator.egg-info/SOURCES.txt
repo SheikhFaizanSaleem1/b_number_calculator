@@ -1,0 +1,7 @@
+LICENSE.txt
+setup.py
+number_calculator/__init__.py
+number_calculator.egg-info/PKG-INFO
+number_calculator.egg-info/SOURCES.txt
+number_calculator.egg-info/dependency_links.txt
+number_calculator.egg-info/top_level.txt
